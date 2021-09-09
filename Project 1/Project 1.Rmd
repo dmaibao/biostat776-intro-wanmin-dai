@@ -1,0 +1,15 @@
+---
+title: "Project 1"
+author: "Wanmin Dai"
+date: "9/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(tidytuesdayR)
+tuesdata <- tidytuesdayR::tt_load('2020-01-21')
+spotify_songs <- tuesdata$spotify_songs
+glimpse(spotify_songs)
+```
+

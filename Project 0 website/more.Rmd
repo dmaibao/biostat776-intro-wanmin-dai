@@ -8,4 +8,4 @@ description: |
 
 ## Takin
 ![Budorcas taxicolor](animal.jpeg)
-source:https://pixabay.com/zh/photos/takin-budorcas-taxicolor-5331280/
+(source:https://pixabay.com/zh/photos/takin-budorcas-taxicolor-5331280/)
